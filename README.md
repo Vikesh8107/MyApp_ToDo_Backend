@@ -1,5 +1,3 @@
-Certainly! Below, I'll provide you with template README files for both the backend and frontend, as well as a brief document template that you can use for explaining your design and development decisions. Remember to replace the placeholder information with your actual project details.
-
 ### Backend README
 
 ```markdown
